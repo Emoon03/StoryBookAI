@@ -1,1 +1,1 @@
-# Penn-GenAI-Hackathon-2024
+# NohPT
